@@ -1,4 +1,4 @@
-## AxionVue Image Capture and Combining
+## Cytosmart Scanning
 This repository is a saved files necessary to continue creating a Python-based solution to interface with Cytosmart hardware using the **AxionVueOpenAPI** library (link: https://pypi.org/project/AxionVueOpenAPI/). 
 The solution should automate the process of capturing and combining images from the Cytosmart scanner device into a larger composite image. This is useful for experiments where large field-of-view imaging is required.
 
