@@ -21,7 +21,7 @@ def create_combined_image(images, grid_size, x_offset=0):
         combined_img.paste(img, (adjusted_x, (y-14) * img_height))
 
     print("Saving...")
-    combined_img.save('ilnurimagw.png')
+    combined_img.save('image_result.png')
 
 
 connector = AxionVueOpenAPI(number_of_devices=1, warranty=False)
