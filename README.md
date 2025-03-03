@@ -77,7 +77,7 @@ grid_size = (25-6, 35-14)
 create_combined_image(images, grid_size)
 print("THe End!")
 ```
-
+---
 ### System setup
 
 #### Prerequisites
